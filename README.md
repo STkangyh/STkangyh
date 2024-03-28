@@ -15,11 +15,10 @@ I am Younghoon Kang, a software engineer.
 #### Other Things that I love 😎
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) [My Playlist](https://open.spotify.com/playlist/5osXJjGRm66PyLHANmizy0?si=84469f9e35de4cef)   
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangyh61)](https://solved.ac/kangyh61)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=STkangyh&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=STkangyh&layout=compact&theme=tokyonight)   
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangyh61)](https://solved.ac/kangyh61) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=STkangyh&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=STkangyh&layout=compact&theme=tokyonight)
 
 <!--
 **STkangyh/STkangyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
