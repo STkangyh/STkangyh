@@ -5,7 +5,7 @@ I am Younghoon Kang, a software engineer.
 - Endless Creation 홈페이지 : (https://endless-creation.netlify.app/)
 - What's your Color? : 퍼스널컬러 진단하는 웹 페이지
 - 윤슬: 고인을 기억할 수 있는 나만의 웹앱 플랫폼. (2024 SNUSTHON 최우수상)
-- 프렌즈닥터: 정신질환을 앓고 있는 사람들을 위해 일상에서 사용할 수 있는 웹앱 플랫폼. (2024 EC&다락방 해커톤 2등)
+- 프렌즈닥터: 정신질환을 앓고 있는 사람들을 위해 일상에서 사용할 수 있는 웹앱 플랫폼. (2024 EC&다락방 해커톤 2등) (https://friend-doctor-front.onrender.com/)
 - Noticore: 서비스 장애 실시간 관리 및 상태 추적 웹 어플리케이션. (https://noticore.co.kr)
 
 #### Things that I code with
