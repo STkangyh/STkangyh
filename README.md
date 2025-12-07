@@ -1,6 +1,10 @@
-## Hello World! 👋
-I am Younghoon Kang, a software engineer.
-***
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=STkangyh&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/STkangyh"
+  width="600"
+  height="300"
+/>
+</a>
 
 ### Things that I made
 - Endless Creation 홈페이지 : (https://endless-creation.netlify.app/)
