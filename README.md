@@ -9,7 +9,6 @@ I am Younghoon Kang, a software engineer.
 - 변명연구소: 대신 사용할 수 있는 변명을 만들어주는 웹앱 사이트. (https://excuselab.swygbro.com/)
 - noticore: 장애 관리 및 모니터링을 위한 웹 애플리케이션
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=STkangyh&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=STkangyh&layout=compact&theme=tokyonight)   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangyh61)](https://solved.ac/kangyh61) 
 
 
