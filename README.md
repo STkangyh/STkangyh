@@ -10,7 +10,7 @@
 - Endless Creation Page : (https://endless-creation.netlify.app/)
 - 윤슬: Private web application that can recall people who passsed away. (2024 SNUSTHON 1st Price)
 - 프렌즈닥터: Web application for people who have a psychological problem. (2024 EC&다락방 Hackerton 2nd Price) (https://friend-doctor-front.onrender.com/)
-- 변명연구소: Web application that can make every excuse. (https://excuselab.swygbro.com/)
+- 변명연구소: Mobile web application that can make every excuse. (https://excuselab.swygbro.com/)
 - noticore: Web application for managing and monitoring issues in any software. 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangyh61)](https://solved.ac/kangyh61) 
