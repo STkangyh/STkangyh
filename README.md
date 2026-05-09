@@ -5,8 +5,6 @@
 - 변명연구소: Mobile web application that can make every excuse. (https://excuselab.swygbro.com/)
 - noticore: Web application for managing and monitoring issues in any software. 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangyh61)](https://solved.ac/kangyh61) 
-
 
 
 <!--
