@@ -4,7 +4,7 @@
 - 프렌즈닥터 : Web application for people who have a psychological problem. (2024 EC&다락방 Hackerton 2nd Price) (https://friend-doctor-front.onrender.com/)
 - 변명연구소 : Mobile web application that can make every excuse. (https://excuselab.swygbro.com/)
 - noticore : Web application for managing and monitoring issues in any software.
-- JOB:DA : Web application for simulating a day in a job you want to apply for (2026 멋쟁이사자처럼대학 중앙 해커톤 3rd Price)
+- JOB:DA : Web application for simulating a day in a job you want to apply for (2026 멋쟁이사자처럼대학 중앙 해커톤 3rd Price) (http://jobda.co.kr/)
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=STkangyh&utm_content=farm">
 <img
